@@ -1,0 +1,4 @@
+2022-06-09 14:17:17,624  INFO [main] BaseClass:31 - reading a browser name from config file
+2022-06-09 14:17:17,630  INFO [main] BaseClass:34 - browser name found in config file as: chrome
+2022-06-09 14:17:32,240  INFO [main] BaseClass:51 - Testcase is ready for execution
+2022-06-09 14:17:34,797  INFO [main] BaseClass:56 - Testsuite is successfully executed
